@@ -1,0 +1,19 @@
+{
+  "name": "landing_practise",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ustinix/landing_practise.git)"
+  },
+  "author": "Ksenia",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "sass": "^1.71.1"
+  }
+}
