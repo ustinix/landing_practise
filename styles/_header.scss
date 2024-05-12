@@ -151,7 +151,7 @@
             }
         }
         &__close {
-            @include m.position(absolute, 10, -1, top, right, 13px, 20px);
+            @include m.position(absolute, 10, -1, top, right, 18px, 23px);
     
             &-icon {
                 width: 25px;
